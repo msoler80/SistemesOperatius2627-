@@ -19,6 +19,9 @@ Compleix dues funcions complementàries:
 - **Gestor de recursos:** reparteix de manera ordenada, eficient i segura els recursos limitats de la màquina
   entre els programes i els usuaris que competeixen per ells.
 
+  <img width="749" height="501" alt="image" src="https://github.com/user-attachments/assets/fee87406-aa05-4691-8922-0bca0397f52a" />
+
+
 ## 3.2. Recursos que gestiona
 
 | Recurs | Component del SO | Tasques |
