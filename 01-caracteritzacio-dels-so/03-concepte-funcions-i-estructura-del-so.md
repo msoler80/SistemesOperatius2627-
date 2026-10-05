@@ -53,6 +53,8 @@ El processador té (com a mínim) dos **modes d'execució**:
 Aquesta separació dona **estabilitat i seguretat**: un error o codi maliciós en una aplicació no pot corrompre
 directament el nucli ni la memòria d'altres processos.
 
+<img width="587" height="399" alt="image" src="https://github.com/user-attachments/assets/85933cdc-1e76-4f94-a2a0-6e1c323d08dc" />
+
 ### Models d'arquitectura
 
 | Arquitectura | Idea | Exemples |
